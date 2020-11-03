@@ -1,6 +1,6 @@
 function getTeamHours(distance) {
   const base = 21 / 1000;
-  return distance * base;
+  return Math.ceil(distance * base);
 }
 
 module.exports = getTeamHours;

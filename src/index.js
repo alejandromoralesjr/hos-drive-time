@@ -1,9 +1,11 @@
 const getTeamHours = require("./getTeamHours");
 const getSoloHours = require("./getSoloHours");
 
-const hours = 3000;
-const teamHours = getTeamHours(hours);
-const soloHours = getSoloHours(hours);
+const miles = 600;
+const teamHours = getTeamHours(miles);
+const soloHours = getSoloHours(miles);
+
+console.log("BASED ON ", miles, " MILES");
 console.log("> TEAM: ", teamHours);
 console.log("> SOLO: ", soloHours);
 module.exports = {
