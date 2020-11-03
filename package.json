@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alejandromoralesjr/region-market.git"
+    "url": "git+https://github.com/alejandromoralesjr/hos-drive-time"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@alejandromoralesjr"
@@ -22,9 +22,9 @@
   "author": "Alejandro Morales",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alejandromoralesjr/region-market/issues"
+    "url": "https://github.com/alejandromoralesjr/hos-drive-time/issues"
   },
-  "homepage": "https://github.com/alejandromoralesjr/region-market#readme",
+  "homepage": "https://github.com/alejandromoralesjr/hos-drive-time#readme",
   "devDependencies": {
     "nodemon": "2.0.1"
   }
