@@ -1,8 +1,4 @@
-const findRegionByState = require("./findRegionByState");
-const findStatesInRegion = require("./findStatesInRegion");
-const getAllRegions = require("./getAllRegions");
+const getTeamHours = require("./getTeamHours");
 module.exports = {
-  getAllRegions,
-  findRegionByState,
-  findStatesInRegion
+  getTeamHours,
 };

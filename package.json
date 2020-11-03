@@ -1,7 +1,7 @@
 {
-  "name": "region-market",
-  "version": "1.1.5",
-  "description": "A package to provide region name for a particular state or states in a region.",
+  "name": "hos-drive-time",
+  "version": "0.0.1",
+  "description": "A package to provide driving hours based on distance.",
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon src/index"
